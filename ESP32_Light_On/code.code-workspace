@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../VS Code/code"
+		},
+		{
+			"name": "ESP32Demo",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
